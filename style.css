@@ -13,7 +13,13 @@ body {
   color: #000000;
 }
 
-.logo--blue { 
-  color:  #2196F3;
-  
+.logo--blue {
+  color: #2196f3;
+}
+
+.nav__list {
+
+display: flex;
+gap: 50px;
+list-style: none;
 }
